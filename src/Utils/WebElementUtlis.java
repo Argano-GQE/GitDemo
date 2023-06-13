@@ -10,4 +10,9 @@ public class WebElementUtlis {
 	{
 		//method to click element 
 	}
+	
+	public void sendKeys()
+	{
+		//method to sendkeys element 
+	}
 }
