@@ -15,4 +15,10 @@ public class WebElementUtlis {
 	{
 		//method to sendkeys element 
 	}
+	
+	public void selectElement()
+	{
+		//method to selectElement element 
+	}
+
 }
