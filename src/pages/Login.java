@@ -4,7 +4,7 @@ public class Login {
 
 	public void Loginpage()
 	{
-		//Login
+		System.out.println("Login Page");
 	}
 	
 }

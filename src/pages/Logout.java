@@ -4,7 +4,7 @@ public class Logout {
 	
 	public void LoginpagLOginout()
 	{
-		//Login
+		System.out.println("Logout Page");
 	}
 
 }
