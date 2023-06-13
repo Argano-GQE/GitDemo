@@ -1,6 +1,6 @@
 package Utils;
 
-public class Dummy {
+public class Dummy1 {
 	
 	//dummy	
 
