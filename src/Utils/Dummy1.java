@@ -6,7 +6,11 @@ public class Dummy1 {
 
 	public void tt()
 	{
-		
+		/// new
+	}
+	public void tt1()
+	{
+		/// new
 	}
 	
 }
